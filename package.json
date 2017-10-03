@@ -1,0 +1,27 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Pavel-Durov/nodescrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Pavel-Durov/nodescrap/issues"
+  },
+  "homepage": "https://gitlab.com/Pavel-Durov/nodescrap#README",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "mkdirp": "^0.5.1",
+    "phantom": "^4.0.5",
+    "phantomjs-prebuilt": "^2.1.15",
+    "ramda": "^0.24.1"
+  }
+}
